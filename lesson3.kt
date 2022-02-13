@@ -183,19 +183,6 @@ fun main(){
         }
         return stack[0]
     }
-
-
-    //println(bigdigit(w))
-    //println(opn(bigdigit(w)))
-    //println(calc(opn(bigdigit(w))))
-
-
     var lambda_demo = {calc(opn(bigdigit(w)))}
     println(lambda_demo())
- 
-
- 
-
-
-
 }
